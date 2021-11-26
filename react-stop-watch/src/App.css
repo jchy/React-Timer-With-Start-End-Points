@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.watch-btn{
+  background-color: blue;
+  color: white;
+  width:150px;
+  height:30px;
+  border-radius: 20px;
+  font-size: 16px;
+  border: 1px solid white;
+}
+.timer{
+  font-size:50px;
+}
+.timer-head{
+  color: rgb(51, 106, 88);
+  font-size: 38px;
+  
+}
