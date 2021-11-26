@@ -51,5 +51,14 @@
 .timer-head{
   color: rgb(51, 106, 88);
   font-size: 38px;
-  
+}
+.input-box{
+  background-color:black;
+  color: white;
+  height:30px;
+  width: 200px;
+  margin: 10px;
+  border-radius: 20px;
+  padding-left: 20px;
+  font-size: 16px;
 }
